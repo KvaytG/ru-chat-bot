@@ -1,0 +1,182 @@
+[
+    {
+        "city": "Санкт-Петербург",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Питер"
+			},
+            {
+				"type": "TEXT",
+				"synonym": "СПб"
+				},
+            {
+				"type": "LEMMA",
+				"synonym": "Ленинград"
+			}
+        ]
+    },
+    {
+        "city": "Москва",
+        "synonyms": [
+            {
+				"type": "TEXT",
+				"synonym": "Мск"
+			}
+        ]
+    },
+    {
+        "city": "Екатеринбург",
+        "synonyms": [
+            {
+				"type": "TEXT",
+				"synonym": "Екб"
+			},
+            {
+				"type": "LEMMA",
+				"synonym": "Свердловск"
+			}
+        ]
+    },
+    {
+        "city": "Нижний Новгород",
+        "synonyms": [
+            {
+				"type": "TEXT",
+				"synonym": "НиНо"
+			},
+            {
+				"type": "LEMMA",
+				"synonym": "Нижний"
+			},
+            {
+				"type": "LEMMA",
+				"synonym": "Горький"
+			}
+        ]
+    },
+    {
+        "city": "Калининград",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Кёниг"
+			},
+            {
+				"type": "LEMMA",
+				"synonym": "Кёнигсберг"
+			}
+        ]
+    },
+    {
+        "city": "Новосибирск",
+        "synonyms": [
+            {
+				"type": "TEXT",
+				"synonym": "Нск"
+			},
+            {
+				"type": "LEMMA",
+				"synonym": "Новосиб"
+			}
+        ]
+    },
+    {
+        "city": "Самара",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Куйбышев"
+			}
+        ]
+    },
+    {
+        "city": "Волгоград",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Сталинград"
+			}
+        ]
+    },
+    {
+        "city": "Владивосток",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Владик"
+			}
+        ]
+    },
+    {
+        "city": "Ростов-на-Дону",
+        "synonyms": [
+            {
+				"type": "TEXT",
+				"synonym": "РнД"
+			},
+            {
+				"type": "LEMMA",
+				"synonym": "Ростов"
+			}
+        ]
+    },
+    {
+        "city": "Краснодар",
+        "synonyms": [
+            {
+				"type": "TEXT",
+				"synonym": "Крд"
+			}
+        ]
+    },
+    {
+        "city": "Ульяновск",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Симбирск"
+			}
+        ]
+    },
+    {
+        "city": "Киров",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Вятка"
+			}
+        ]
+    },
+    {
+        "city": "Ярославль",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Ярик"
+			}
+        ]
+    },
+    {
+        "city": "Челябинск",
+        "synonyms": [
+            {
+				"type": "LEMMA",
+				"synonym": "Челяба"
+			}
+        ]
+    },
+    {
+        "city": "Петрозаводск",
+        "synonyms": [
+            {
+				"type": "TEXT",
+				"synonym": "Птз"
+			},
+            {
+				"type": "LEMMA",
+				"synonym": "Петрик"
+			}
+        ]
+    }
+]

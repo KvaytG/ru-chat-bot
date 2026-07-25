@@ -1,0 +1,27 @@
+# Python cache
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+
+# JetBrains IDE
+.idea/
+
+# Virtual environment
+.venv/
+venv/
+
+# Tests
+tests/
+test/
+
+# Environment variables
+.env
+
+#Logs
+chat-bot.log
+
+# Models and large resources
+src/chat_bot/resources/rubert_tiny_onnx/
